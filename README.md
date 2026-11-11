@@ -6,8 +6,6 @@ I build desktop and web apps, and contribute bug fixes and regression tests to o
 
 | Project | What it does |
 | --- | --- |
-| **[Octavo](https://github.com/ShahadatTest/Octavo)** | An offline EPUB and PDF reader with page-aware highlights, notes, and Obsidian export. |
-| **[Orbly](https://github.com/ShahadatTest/orb)** | A web and desktop chat app with presence, group spaces, and WebRTC calls. |
 | **[AfterFix](https://github.com/ShahadatTest/afterfix)** | Reviews inventory damage after a bug fix and verifies a proposed repair before it is applied. |
 | **[APIVouch](https://github.com/ShahadatTest/apivouch)** | Cross-checks results from independent API providers and records the evidence in a tamper-evident receipt. |
 
